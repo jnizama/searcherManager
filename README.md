@@ -1,5 +1,5 @@
 # searcherManager
-Repository for Coding Assessment Test (cignium)
+Repository for Coding Assessment Test (cignium).
 This project provide you a easy way to search in enginers searchs keywords and return results count.
 It is available using MSN.com and Google.com.
 I use a HtmlAgilityPack library to handle HTML document.
