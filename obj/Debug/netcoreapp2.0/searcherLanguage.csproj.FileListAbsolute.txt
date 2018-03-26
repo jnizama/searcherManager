@@ -1,0 +1,10 @@
+/Users/Jorge/Documents/searcherLanguage/bin/Debug/netcoreapp2.0/searcherLanguage.deps.json
+/Users/Jorge/Documents/searcherLanguage/bin/Debug/netcoreapp2.0/searcherLanguage.runtimeconfig.json
+/Users/Jorge/Documents/searcherLanguage/bin/Debug/netcoreapp2.0/searcherLanguage.runtimeconfig.dev.json
+/Users/Jorge/Documents/searcherLanguage/bin/Debug/netcoreapp2.0/searcherLanguage.dll
+/Users/Jorge/Documents/searcherLanguage/bin/Debug/netcoreapp2.0/searcherLanguage.pdb
+/Users/Jorge/Documents/searcherLanguage/obj/Debug/netcoreapp2.0/searcherLanguage.csproj.CoreCompileInputs.cache
+/Users/Jorge/Documents/searcherLanguage/obj/Debug/netcoreapp2.0/searcherLanguage.AssemblyInfoInputs.cache
+/Users/Jorge/Documents/searcherLanguage/obj/Debug/netcoreapp2.0/searcherLanguage.AssemblyInfo.cs
+/Users/Jorge/Documents/searcherLanguage/obj/Debug/netcoreapp2.0/searcherLanguage.dll
+/Users/Jorge/Documents/searcherLanguage/obj/Debug/netcoreapp2.0/searcherLanguage.pdb
